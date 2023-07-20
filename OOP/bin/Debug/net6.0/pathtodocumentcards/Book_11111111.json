@@ -1,0 +1,8 @@
+{
+  "isbn": "11111111",
+  "title": "The Book Title",
+  "authors": ["John Smith", "Jane Doe"],
+  "num_pages": 250,
+  "publisher": "Exmpo",
+  "date_published": "2022-05-15"
+}

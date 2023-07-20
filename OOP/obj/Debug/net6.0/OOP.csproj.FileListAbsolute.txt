@@ -1,0 +1,17 @@
+D:\Course\11 Task\OOP\OOP\bin\Debug\net6.0\OOP.exe
+D:\Course\11 Task\OOP\OOP\bin\Debug\net6.0\OOP.deps.json
+D:\Course\11 Task\OOP\OOP\bin\Debug\net6.0\OOP.runtimeconfig.json
+D:\Course\11 Task\OOP\OOP\bin\Debug\net6.0\OOP.dll
+D:\Course\11 Task\OOP\OOP\bin\Debug\net6.0\OOP.pdb
+D:\Course\11 Task\OOP\OOP\obj\Debug\net6.0\OOP.csproj.AssemblyReference.cache
+D:\Course\11 Task\OOP\OOP\obj\Debug\net6.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course\11 Task\OOP\OOP\obj\Debug\net6.0\OOP.AssemblyInfoInputs.cache
+D:\Course\11 Task\OOP\OOP\obj\Debug\net6.0\OOP.AssemblyInfo.cs
+D:\Course\11 Task\OOP\OOP\obj\Debug\net6.0\OOP.csproj.CoreCompileInputs.cache
+D:\Course\11 Task\OOP\OOP\obj\Debug\net6.0\OOP.dll
+D:\Course\11 Task\OOP\OOP\obj\Debug\net6.0\refint\OOP.dll
+D:\Course\11 Task\OOP\OOP\obj\Debug\net6.0\OOP.pdb
+D:\Course\11 Task\OOP\OOP\obj\Debug\net6.0\OOP.genruntimeconfig.cache
+D:\Course\11 Task\OOP\OOP\obj\Debug\net6.0\ref\OOP.dll
+D:\Course\11 Task\OOP\OOP\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Course\11 Task\OOP\OOP\obj\Debug\net6.0\OOP.csproj.CopyComplete

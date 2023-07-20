@@ -1,0 +1,10 @@
+{
+  "isbn": "8888",
+  "title": "My life",
+  "authors": ["Jose Martinez"],
+  "num_pages": 300,
+  "publisher": "Piligrim",
+  "date_published": "2022-06-01",
+  "country": "Mexico",
+  "local_publisher": "Mex Publisher Name"
+}
